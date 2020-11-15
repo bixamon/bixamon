@@ -6,14 +6,15 @@ Currently working with React and Next.js.
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8675a9)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=8675a9)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=8675a9)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=8675a9)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=8675a9)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=8675a9)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=vue.js&logoColor=white&color=8675a9)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=8675a9)
+![](https://img.shields.io/badge/Code-Next_js-informational?style=flat&logo=next.js&logoColor=white&color=8675a9)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=8675a9)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=8675a9)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=8675a9)
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=8675a9)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=8675a9)
+![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=8675a9)
 
 ## &#x1f4c8; GitHub Stats
 
